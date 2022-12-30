@@ -19,7 +19,7 @@
     "forever": "^2.0.0",
     "fs": "0.0.1-security",
     "json-query": "^2.2.2",
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "nodemon": "^2.0.3",
     "path": "^0.12.7",
     "supertest": "^4.0.2"
